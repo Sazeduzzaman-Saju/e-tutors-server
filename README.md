@@ -1,3 +1,3 @@
-# b610-lerning-platform-server-side-Sazeduzzzaman
+# Etutor Server
 b610-lerning-platform-server-side-Sazeduzzzaman created by GitHub Classroom
-https://etutor-server.vercel.app
+## liver link : https://etutor-server.vercel.app/course-title
