@@ -1,34 +1,42 @@
 [
   {
     "id": "1",
-    "name": "Live Acoustic Guitar and Electric Guitar Lessons"
+    "name": "Live Acoustic Guitar and Electric Guitar Lessons",
+    "image": "https://res.cloudinary.com/dev-empty/image/upload/v1664177479/cfn6ba4fmitb2psdrutv.jpg"
   },
   {
     "id": "2",
-    "name": "Piano for all - Incredible New Way To Learn Piano & Keyboard"
+    "name": "Piano for all - Incredible New Way To Learn Piano & Keyboard",
+    "image": "https://res.cloudinary.com/dev-empty/image/upload/v1662282955/uheioegbcm7ghvmpiouh.jpg"
   },
   {
     "id": "3",
-    "name": "Complete workout : Complete Fitness Certification"
+    "name": "Complete workout : Complete Fitness Certification",
+    "image": "https://res.cloudinary.com/dev-empty/image/upload/v1662268371/xbablxdvrkt03pfr4sfw.jpg"
   },
   {
     "id": "4",
-    "name": "Fitness-Yoga-Pilates Combined - Quick Home Workout Program"
+    "name": "Fitness-Yoga-Pilates Combined - Quick Home Workout Program",
+    "image": "https://res.cloudinary.com/dev-empty/image/upload/v1662283170/znxfx4pp9olufntv6blc.jpg"
   },
   {
     "id": "5",
-    "name": "Agile Project Management"
+    "name": "Agile Project Management",
+    "image": "https://res.cloudinary.com/dev-empty/image/upload/v1662283203/ck5gokacjjnorgvh9rnz.jpg"
   },
   {
     "id": "6",
-    "name": "Software Project Management For Start-ups And Solo Pruners"
+    "name": "Software Project Management For Start-ups And Solo Pruners",
+    "image": "https://res.cloudinary.com/dev-empty/image/upload/v1662283224/hbwh7008ojteiqt1ohls.jpg"
   },
   {
     "id": "7",
-    "name": "Learn Time Management, Get Organized & Get Everything Done"
+    "name": "Learn Time Management, Get Organized & Get Everything Done",
+    "image": "https://res.cloudinary.com/dev-empty/image/upload/v1661246756/p63jr4iep9q2jeia6esv.jpg"
   },
   {
     "id": "8",
-    "name": "How to Run truly Productive Meetings – and add value"
+    "name": "How to Run truly Productive Meetings – and add value",
+    "image": "https://res.cloudinary.com/dev-empty/image/upload/v1661246498/gviacpl4bb55gp6r4dal.jpg"
   }
 ]
